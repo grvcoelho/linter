@@ -1,0 +1,22 @@
+{
+  "name": "@grvcoelho/linter",
+  "version": "1.0.0",
+  "description": ":art: Styleguides and linter configuration files",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grvcoelho/eslint.git"
+  },
+  "author": "Guilherme Coelho <@grvcoelho>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grvcoelho/eslint/issues"
+  },
+  "homepage": "https://github.com/grvcoelho/eslint#readme",
+  "dependencies": {
+    "lerna": "^3.22.1"
+  }
+}
