@@ -1,6 +1,6 @@
 {
   "name": "@grvcoelho/eslint-vanilla",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "module": "index.js",
   "gitHead": "19950c6680bf88564ca93d80649379ab71dda998",
