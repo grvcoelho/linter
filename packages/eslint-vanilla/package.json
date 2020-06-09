@@ -1,5 +1,5 @@
 {
-  "name": "@grvcoelho/eslint-vanilla",
+  "name": "eslint-config-grvcoelho-vanilla",
   "version": "0.1.1",
   "main": "index.js",
   "gitHead": "19950c6680bf88564ca93d80649379ab71dda998",
