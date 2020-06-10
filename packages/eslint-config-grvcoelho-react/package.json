@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-grvcoelho-react",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.0-alpha.1",
   "main": "index.js",
   "peerDependencies": {
     "eslint": "^5.16.0 || ^6.8.0",
