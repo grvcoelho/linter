@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-grvcoelho-vanilla",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "gitHead": "19950c6680bf88564ca93d80649379ab71dda998",
   "peerDependencies": {
