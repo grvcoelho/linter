@@ -17,5 +17,6 @@ module.exports = {
     'no-multiple-empty-lines': ['error', { max: 1 }],
     'prefer-const': 'error',
     'semi': ['error', 'never'],
+    'space-before-function-param': ['error', 'always'],
   },
 }
