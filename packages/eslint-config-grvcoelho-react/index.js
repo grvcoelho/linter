@@ -16,6 +16,7 @@ module.exports = {
     'jsx-a11y/label-has-for': ['off'],
     'react/jsx-filename-extension': ['off'],
     'react/jsx-one-expression-per-line': ['off'],
+    'react/react-in-jsx-scope': ['off'],
     'react-hooks/exhaustive-deps': ['warn'],
     'react-hooks/rules-of-hooks': ['error'],
   },
