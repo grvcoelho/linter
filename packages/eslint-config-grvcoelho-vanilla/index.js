@@ -1,6 +1,7 @@
 module.exports = {
   extends: ['airbnb-base'],
   rules: {
+    'arrow-parens': ['error', 'as-needed'],
     'comma-dangle': [
       'error',
       {
@@ -9,10 +10,17 @@ module.exports = {
         imports: 'always-multiline',
         exports: 'always-multiline',
         functions: 'never',
-      }
+      },
     ],
     'function-paren-newline': ['error', 'multiline'],
-    'max-len': ['error', { code: 100, tabWidth: 2, }],
+    'max-len': [
+      'error',
+      {
+        code: 100,
+        tabWidth: 2,
+        ignoreStrings: true,
+      },
+    ],
     'max-params': ['error', { max: 3 }],
     'no-multiple-empty-lines': ['error', { max: 1 }],
     'prefer-const': 'error',
